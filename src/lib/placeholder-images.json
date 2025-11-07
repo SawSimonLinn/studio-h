@@ -1,0 +1,190 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "An artistic and moody shot of an art studio interior.",
+      "imageUrl": "https://images.unsplash.com/photo-1609174112693-52fdcebffd89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YXJ0JTIwc3R1ZGlvfGVufDB8fHx8MTc2MjU0NzMyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "art studio"
+    },
+    {
+      "id": "about-portrait",
+      "description": "A portrait of the artist in their studio.",
+      "imageUrl": "https://images.unsplash.com/photo-1542838686-37da4a18162e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcnRpc3QlMjBwb3J0cmFpdCUyMHdvbWFufGVufDB8fHx8MTc2MjU5Nzk5OXww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "artist portrait"
+    },
+    {
+      "id": "instructor-1",
+      "description": "Portrait of a male digital artist.",
+      "imageUrl": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhcnRpc3QlMjBwb3J0cmFpdCUyMG1hbnxlbnwwfHx8fDE3NjI1OTc5OTl8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "artist portrait"
+    },
+    {
+      "id": "instructor-2",
+      "description": "Portrait of a male sketching artist.",
+      "imageUrl": "https://images.unsplash.com/photo-1557862921-37829c790f19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhcnRpc3QlMjBwb3J0cmFpdCUyMG1hbnxlbnwwfHx8fDE3NjI1OTc5OTl8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "artist portrait"
+    },
+    {
+      "id": "instructor-3",
+      "description": "Portrait of a female watercolor artist.",
+      "imageUrl": "https://images.unsplash.com/photo-1586297135537-94bc9ba060aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhcnRpc3QlMjBwb3J0cmFpdCUyMHdvbWFufGVufDB8fHx8MTc2MjU5Nzk5OXww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "artist portrait"
+    },
+    {
+      "id": "gallery-painting-1",
+      "description": "Vibrant abstract painting with bold colors.",
+      "imageUrl": "https://images.unsplash.com/photo-1531056416665-266c4099c928?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhYnN0cmFjdCUyMHBhaW50aW5nfGVufDB8fHx8MTc2MjQ4OTA0N3ww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract painting"
+    },
+    {
+      "id": "gallery-sketch-1",
+      "description": "A detailed charcoal sketch of a face.",
+      "imageUrl": "https://images.unsplash.com/photo-1756289345404-c5514dc9abd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaGFyY29hbCUyMHNrZXRjaHxlbnwwfHx8fDE3NjI1NDczMjJ8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "charcoal sketch"
+    },
+    {
+      "id": "gallery-digital-1",
+      "description": "A piece of surreal digital art.",
+      "imageUrl": "https://images.unsplash.com/photo-1593073862407-a3ce22748763?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkaWdpdGFsJTIwYXJ0fGVufDB8fHx8MTc2MjUzMTQ5OHww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "digital art"
+    },
+    {
+      "id": "gallery-painting-2",
+      "description": "An oil painting of a dramatic landscape.",
+      "imageUrl": "https://images.unsplash.com/photo-1579009420909-b837eefa4274?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxvaWwlMjBwYWludGluZ3xlbnwwfHx8fDE3NjI0NTQ5OTN8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "oil painting"
+    },
+    {
+      "id": "gallery-sketch-2",
+      "description": "A delicate pencil drawing of hands.",
+      "imageUrl": "https://images.unsplash.com/photo-1579762715459-5a068c289fda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwZW5jaWwlMjBkcmF3aW5nfGVufDB8fHx8MTc2MjUwNzI3NHww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "pencil drawing"
+    },
+    {
+      "id": "gallery-digital-2",
+      "description": "Colorful and surreal digital illustration.",
+      "imageUrl": "https://images.unsplash.com/photo-1724782712653-dd89feeba2ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzdXJyZWFsJTIwZGlnaXRhbHxlbnwwfHx8fDE3NjI1MDI4OTN8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "surreal digital"
+    },
+    {
+      "id": "gallery-concept-1",
+      "description": "Concept art for a fantasy character.",
+      "imageUrl": "https://images.unsplash.com/photo-1630921863029-b3abdbf5758b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb25jZXB0JTIwYXJ0fGVufDB8fHx8MTc2MjQ5MDgyOHww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "concept art"
+    },
+    {
+      "id": "program-drawing",
+      "description": "A sketchbook open with a detailed pencil drawing inside.",
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1554757388-5982229b9ce7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxkcmF3aW5nJTIwY2xhc3N8ZW58MHx8fHwxNzYyNTQ4MzI4fDA&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "drawing class"
+    },
+    {
+      "id": "program-drawing-2",
+      "description": "Close up of hands drawing in a sketchbook.",
+      "imageUrl": "https://images.unsplash.com/photo-1588072432836-450129759b79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkcmF3aW5nJTIwY2xhc3N8ZW58MHx8fHwxNzYyNTQ4MzI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "drawing class"
+    },
+    {
+      "id": "program-drawing-3",
+      "description": "Overhead shot of art supplies for drawing.",
+      "imageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcnQlMjBzdXBwbGllc3xlbnwwfHx8fDE3NjI0NzA3MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "art supplies"
+    },
+    {
+      "id": "program-painting",
+      "description": "An easel with a canvas and oil painting supplies.",
+      "imageUrl": "https://images.unsplash.com/photo-1452802447250-470a88ac82bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwYWludGluZyUyMGNsYXNzfGVufDB8fHx8MTc2MjU0ODMyOHww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "painting class"
+    },
+    {
+      "id": "program-digital",
+      "description": "A person drawing on a graphics tablet.",
+      "imageUrl": "https://images.unsplash.com/photo-1641984790242-d8aa477d306c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkaWdpdGFsJTIwYXJ0fGVufDB8fHx8MTc2MjUzMTQ5OHww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "digital art"
+    },
+    {
+      "id": "avatar-1",
+      "description": "Portrait of a smiling person.",
+      "imageUrl": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0NzE2NDF8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-2",
+      "description": "Portrait of a smiling person.",
+      "imageUrl": "https://images.unsplash.com/photo-1540569014015-19a7be504e3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0NzE2NDF8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-3",
+      "description": "Portrait of a smiling person.",
+      "imageUrl": "https://images.unsplash.com/photo-1540569014015-19a7be504e3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0NzE2NDF8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "blog-post-1",
+      "description": "An open sign in a shop window.",
+      "imageUrl": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3b3Jrc2hvcHxlbnwwfHx8fDE3NjI1OTI5OTV8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "workshop open"
+    },
+    {
+      "id": "blog-post-2",
+      "description": "A flyer for weekend art classes.",
+      "imageUrl": "https://images.unsplash.com/photo-1512290923902-8a9fde75863c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcnQlMjBjbGFzcyUyMGZseWVyfGVufDB8fHx8MTc2MjYwMzk4MHww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "art class"
+    },
+    {
+      "id": "student-work-drawing-1",
+      "description": "A charcoal drawing of a sphere showing light and shadow.",
+      "imageUrl": "https://images.unsplash.com/photo-1582201942930-53fea460eeeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjaGFyY29hbCUyMGRyYXdpbmd8ZW58MHx8fHwxNzYyNTIwNTE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "charcoal drawing"
+    },
+    {
+      "id": "student-work-drawing-2",
+      "description": "A pencil sketch of an ornate vase.",
+      "imageUrl": "https://images.unsplash.com/photo-1454191297004-cefa4b1042d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZW5jaWwlMjBza2V0Y2h8ZW58MHx8fHwxNzYyNTMwOTI1fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "pencil sketch"
+    },
+    {
+      "id": "student-work-drawing-3",
+      "description": "A still life arrangement of fruit and fabric in pencil.",
+      "imageUrl": "https://images.unsplash.com/photo-1630367837606-8685ed284448?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzdGlsbCUyMGxpZmV8ZW58MHx8fHwxNzYyNTAwMjgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "still life"
+    },
+    {
+      "id": "student-work-painting-1",
+      "description": "An oil painting of a rolling hills landscape.",
+      "imageUrl": "https://images.unsplash.com/photo-1688589935455-7793f9f52a2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxsYW5kc2NhcGUlMjBwYWludGluZ3xlbnwwfHx8fDE3NjI1NTA3Nzd8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "landscape painting"
+    },
+    {
+      "id": "student-work-painting-2",
+      "description": "An abstract painting showing blended colors.",
+      "imageUrl": "https://images.unsplash.com/photo-1533208087231-c3618eab623c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhYnN0cmFjdCUyMHBhaW50aW5nfGVufDB8fHx8MTc2MjQ4OTA0N3ww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract painting"
+    },
+    {
+      "id": "student-work-painting-3",
+      "description": "An oil painting of a bouquet of sunflowers.",
+      "imageUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmbG93ZXIlMjBwYWludGluZ3xlbnwwfHx8fDE3NjI1NTA3Nzd8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "flower painting"
+    },
+    {
+      "id": "student-work-digital-1",
+      "description": "A digital concept artwork of a sci-fi character.",
+      "imageUrl": "https://images.unsplash.com/photo-1647427017458-f6df91d046eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2hhcmFjdGVyJTIwY29uY2VwdHxlbnwwfHx8fDE3NjI0Njk4OTh8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "character concept"
+    },
+    {
+      "id": "student-work-digital-2",
+      "description": "A digital painting of a fantasy castle in the mountains.",
+      "imageUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmYW50YXN5JTIwbGFuZHNjYXBlfGVufDB8fHx8MTc2MjUwNDcwNnww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "fantasy landscape"
+    },
+    {
+      "id": "student-work-digital-3",
+      "description": "A cartoon-style digital self-portrait.",
+      "imageUrl": "https://images.unsplash.com/photo-1648747067160-ae85cf5c6071?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkaWdpdGFsJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNDk5Mjg1fDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "digital portrait"
+    }
+  ]
+}
